@@ -12,7 +12,7 @@ Connect [Gemini CLI](https://geminicli.com) to your **Made in Show (MIS)** insta
 ## Install
 
 ```bash
-gemini extensions install https://github.com/madeinshow/mis-mcp-gemini-extension
+gemini extensions install https://github.com/madeinshow/mcp-gemini-extension
 ```
 
 On first use, authenticate with your Made in Show credentials:
