@@ -1,6 +1,6 @@
-# Made in Show (MIS) — context for Gemini
+# Made In Show (MIS) — context for Gemini
 
-This extension connects you to a Made in Show (MIS) installation via the official MIS MCP connector.
+This extension connects you to a Made In Show (MIS) installation via the official MIS MCP connector.
 
 - MIS is an Italian management platform for live-event production companies (service audio/video/luci): productions, quotes and final statements, warehouse, crew, vehicles, invoicing. Backend messages are in Italian.
 - Start with `mis_status` to see the connected installation, the user identity and what the user's AI access allows. If more than one installation is available, tools accept an `installation` parameter.

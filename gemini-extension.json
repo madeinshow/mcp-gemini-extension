@@ -1,7 +1,7 @@
 {
     "name": "made-in-show",
-    "version": "0.1.0",
-    "description": "Connect Gemini CLI to Made in Show (MIS), the management platform for live-event production companies: productions, warehouse, crew and finance — with per-user permissions governed inside MIS.",
+    "version": "0.1.1",
+    "description": "Connect Gemini CLI to Made In Show (MIS), the management platform for live-event production companies: productions, warehouse, crew and finance — with per-user permissions governed inside MIS.",
     "contextFileName": "GEMINI.md",
     "mcpServers": {
         "mis": {
