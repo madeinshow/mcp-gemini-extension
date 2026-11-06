@@ -1,6 +1,6 @@
 # Made In Show — Gemini CLI extension
 
-Connect [Gemini CLI](https://geminicli.com) to your **Made In Show (MIS)** installation: ask about productions, warehouse availability, crew and finance data — and, if your administrator allows it, act on them — straight from your terminal.
+Connect [Gemini CLI](https://geminicli.com) to your **Made In Show (MIS)** installation: ask about productions, warehouse availability, crew, company vehicles and finance data — and, if your administrator allows it, act on them — straight from your terminal. Every write asks you to confirm a preview first.
 
 > **Italiano più sotto.** 🇮🇹
 
